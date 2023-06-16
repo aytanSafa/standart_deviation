@@ -6,9 +6,9 @@ This algorithm allows to find the standard deviation. The array length, array el
 
 1 >= numberOfThreads <= 20
 
+## Proof
 
-
-
+![proof](https://github.com/aytanSafa/standart_deviation/assets/31735609/0f2137f2-0590-42b4-9e25-baec128b2ae
 
 
 
