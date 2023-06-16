@@ -76,7 +76,7 @@ public class Operation {
         return total / array.length;
     }
 
-    // This function splits the thread according to the number of threads.
+    // This function splits the array according to the number of threads.
     public  List<short[]> splitArray(short[] array, short numThreads) {
         List<short[]> subArrays = new ArrayList<>();
 
