@@ -33,7 +33,7 @@ public class Main {
         }
 
         Operation operation = new Operation();
-        System.out.printf("Result is %.2f ",operation.standartSapmaHesapla(shorts,numberOfThread));
+        System.out.printf("Result is %.2f ",operation.calculateStandardDeviation(shorts,numberOfThread));
 
    }
 }
