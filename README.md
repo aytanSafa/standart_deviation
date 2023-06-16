@@ -8,7 +8,7 @@ This algorithm allows to find the standard deviation. The array length, array el
 
 ## Proof
 
-![proof](https://github.com/aytanSafa/standart_deviation/assets/31735609/0f2137f2-0590-42b4-9e25-baec128b2ae
+<img src="https://github.com/aytanSafa/standart_deviation/blob/main/proof.JPG" height="60" width="60" >
 
 
 
