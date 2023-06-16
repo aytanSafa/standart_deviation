@@ -8,7 +8,7 @@ public class Operation {
     double totalCountByPower = 0;
 
     // This method provide to find total powers in each element of subArrays
-    public double findPowerByAritmeticMean(short[] array , double aritmeticMean){
+    private double findPowerByAritmeticMean(short[] array , double aritmeticMean){
         double subTotal = 0;
 
         for (short count : array) {
@@ -66,7 +66,7 @@ public class Operation {
 
 
     // This method is the function that returns the arithmetic mean.
-    public double findAritmeticMean(short[] array){
+    private double findAritmeticMean(short[] array){
 
         double total = 0;
 
@@ -77,7 +77,7 @@ public class Operation {
     }
 
     // This function splits the array according to the number of threads.
-    public  List<short[]> splitArray(short[] array, short numThreads) {
+    private List<short[]> splitArray(short[] array, short numThreads) {
         List<short[]> subArrays = new ArrayList<>();
 
         int arrayLength = array.length;
